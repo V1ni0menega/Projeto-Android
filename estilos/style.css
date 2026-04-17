@@ -71,7 +71,7 @@ h2::after {
   width: 0%;
   height: 3px;
   background-color: #00c853;
-  transition: width 0.4s ease-in-out;
+  flex-direction: column;
 }
 
 h2:hover::after {
